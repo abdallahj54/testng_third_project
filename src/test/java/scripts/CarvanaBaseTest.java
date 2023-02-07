@@ -11,7 +11,6 @@ public class CarvanaBaseTest {
 
     CarvanaBaseTest carvanaBaseTest;
     CarvanaBasePage carvanaBasePage;
-    CarvanaTestCases carvanaTestCases;
     WebDriver driver;
 
     @BeforeMethod
